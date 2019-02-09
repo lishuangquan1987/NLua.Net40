@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NLua.Shared", "NLua.Shared\NLua.Shared.shproj", "{9A23F097-34F5-4B3F-B296-8CFDFCD9094A}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "KeraLua.Shared", "KeraLua.Shared\KeraLua.Shared.shproj", "{0E34F489-5AD1-4C67-B074-6CAC33C4D9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLua.Net40", "NLua.Net40\NLua.Net40.csproj", "{591CFBB2-2F33-4F76-AE41-A7BD0799D47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeraLua.Net40", "KeraLua.Net40\KeraLua.Net40.csproj", "{47F73C27-0C54-4683-94A1-CB3B66A0DA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLua.Test", "NLua.Test\NLua.Test.csproj", "{7C130104-2B2C-4C04-BAE1-F937ED262C84}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		KeraLua.Shared\KeraLua.Shared.projitems*{0e34f489-5ad1-4c67-b074-6cac33c4d9ba}*SharedItemsImports = 13
+		KeraLua.Shared\KeraLua.Shared.projitems*{47f73c27-0c54-4683-94a1-cb3b66a0da36}*SharedItemsImports = 4
+		NLua.Shared\NLua.Shared.projitems*{591cfbb2-2f33-4f76-ae41-a7bd0799d47b}*SharedItemsImports = 4
+		NLua.Shared\NLua.Shared.projitems*{9a23f097-34f5-4b3f-b296-8cfdfcd9094a}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591CFBB2-2F33-4F76-AE41-A7BD0799D47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591CFBB2-2F33-4F76-AE41-A7BD0799D47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591CFBB2-2F33-4F76-AE41-A7BD0799D47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591CFBB2-2F33-4F76-AE41-A7BD0799D47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F73C27-0C54-4683-94A1-CB3B66A0DA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F73C27-0C54-4683-94A1-CB3B66A0DA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F73C27-0C54-4683-94A1-CB3B66A0DA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F73C27-0C54-4683-94A1-CB3B66A0DA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C130104-2B2C-4C04-BAE1-F937ED262C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C130104-2B2C-4C04-BAE1-F937ED262C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C130104-2B2C-4C04-BAE1-F937ED262C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C130104-2B2C-4C04-BAE1-F937ED262C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DD358A-2D43-4A1B-A265-86F80148065C}
+	EndGlobalSection
+EndGlobal

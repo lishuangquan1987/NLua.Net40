@@ -1,0 +1,5 @@
+E:\Project2019\NLua.Net40\KeraLua.Net40\bin\Debug\KeraLua.dll
+E:\Project2019\NLua.Net40\KeraLua.Net40\bin\Debug\KeraLua.pdb
+E:\Project2019\NLua.Net40\KeraLua.Net40\obj\Debug\KeraLua.Net40.csproj.CoreCompileInputs.cache
+E:\Project2019\NLua.Net40\KeraLua.Net40\obj\Debug\KeraLua.dll
+E:\Project2019\NLua.Net40\KeraLua.Net40\obj\Debug\KeraLua.pdb

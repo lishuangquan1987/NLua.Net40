@@ -1,0 +1,12 @@
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\x64\liblua53.so
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\x64\lua53.dll
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\x86\lua53.dll
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\NLua.Net40.dll
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\NLua.Net40.pdb
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\KeraLua.dll
+E:\Project2019\NLua.Net40\NLua.Net40\bin\Debug\KeraLua.pdb
+E:\Project2019\NLua.Net40\NLua.Net40\obj\Debug\NLua.Net40.csprojAssemblyReference.cache
+E:\Project2019\NLua.Net40\NLua.Net40\obj\Debug\NLua.Net40.csproj.CoreCompileInputs.cache
+E:\Project2019\NLua.Net40\NLua.Net40\obj\Debug\NLua.Net40.csproj.CopyComplete
+E:\Project2019\NLua.Net40\NLua.Net40\obj\Debug\NLua.Net40.dll
+E:\Project2019\NLua.Net40\NLua.Net40\obj\Debug\NLua.Net40.pdb
