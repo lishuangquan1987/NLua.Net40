@@ -12,3 +12,4 @@ E:\Project2019\NLua.Net40\NLua.Test\obj\Debug\NLua.Test.csproj.CoreCompileInputs
 E:\Project2019\NLua.Net40\NLua.Test\obj\Debug\NLua.Test.csproj.CopyComplete
 E:\Project2019\NLua.Net40\NLua.Test\obj\Debug\NLua.Test.exe
 E:\Project2019\NLua.Net40\NLua.Test\obj\Debug\NLua.Test.pdb
+E:\Project2019\NLua.Net40\NLua.Test\bin\Debug\Script\json.lua
