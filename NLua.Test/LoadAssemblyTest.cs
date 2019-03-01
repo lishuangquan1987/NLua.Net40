@@ -15,7 +15,7 @@ namespace NLua.Test
                 lua.DoString("luanet.load_assembly('mscorlib')");
                 lua.DoString("luanet.load_assembly('System.Windows.Forms')");
                 lua.DoString("a=luanet.import_type('System.Window.Forms.MessageBox')");
-                lua.DoString("a.Show('lua')");
+                lua.DoString("a.Show('lua')");               
                 Console.Read();
             }
         }
